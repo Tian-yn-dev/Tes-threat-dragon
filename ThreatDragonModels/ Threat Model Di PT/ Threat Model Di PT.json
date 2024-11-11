@@ -1,0 +1,36 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": " Threat Model Di PT",
+    "owner": "Septian",
+    "description": "Sistem Aplikasi Web di PT",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "septian"
+      },
+      {
+        "name": "yudha"
+      },
+      {
+        "name": "nailendra"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "DDos Threat Model",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.3.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Yudha",
+    "threatTop": 0
+  }
+}
