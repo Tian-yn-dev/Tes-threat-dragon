@@ -22,9 +22,9 @@
       {
         "id": 0,
         "title": "DDos Threat Model",
-        "diagramType": "Generic",
-        "placeholder": "New generic diagram description",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.3.0",
         "cells": []
       }
